@@ -1,0 +1,25 @@
+.about{
+    height: 94.4vh;
+}
+.about-text{
+    background: #3C7B9C;
+    color: #fff;
+    padding: 25px;
+    position: relative;
+    top:100px;
+    right: 200px;
+    width: 700px;
+    float: right;
+}
+.aa{
+    background-color: #fff;
+    color: #3C7B9C;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.aa:hover{
+    background-color: #3C7B9C;
+    color: #fff;
+}
